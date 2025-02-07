@@ -4,7 +4,10 @@ Hola!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Estudiante de programacion & Freelance Full Stack en formación
 ---------------------------------------------------------------
 
-Me interesa la programación, la optimización de procesos y la creación de soluciones eficientes. Siempre buscando aprender y mejorar. 🔹 Trabajando con C, C++, C#, ASP.NET, SQL y Git. 🔹 Desarrollo de aplicaciones web con integración de bases de datos. 🔹 Conocimientos en HTML, CSS, JS y metodologías de código limpio.
+Me interesa la programación, la optimización de procesos y la creación de soluciones eficientes. Siempre buscando aprender y mejorar. 
+🔹 Trabajando con C, C++, C#, ASP.NET, SQL y Git. 
+🔹 Desarrollo de aplicaciones web con integración de bases de datos. 
+🔹 Conocimientos en HTML, CSS, JS y metodologías de código limpio.
 
 * 🌍  Buenos Aires
 * 🚀  Actualmente trabajando en el proyecto  [Hache Gluten E-Commerce](http://github.com/Bassinii/Proyecto-Hache)
