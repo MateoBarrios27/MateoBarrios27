@@ -1,7 +1,7 @@
 Hola!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Soy Mateo
 =============================================================================================================================
 
-Estudiante de programacion & Freelance Full Stack en formación
+Estudiante de programacion & Desarrollador Full Stack en proceso
 ---------------------------------------------------------------
 
 Me interesa la programación y encontrar formas de optimizar procesos para hacer las cosas más eficientes. Siempre estoy buscando aprender algo nuevo y mejorar en cada proyecto que emprendo.  
