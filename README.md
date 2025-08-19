@@ -6,7 +6,7 @@ Estudiante de programacion & Desarrollador Full Stack
 
 Me interesa la programación y encontrar formas de optimizar procesos para hacer las cosas más eficientes. Siempre estoy buscando aprender algo nuevo y mejorar en cada proyecto que emprendo.  
 
-🔹 Trabajando con **C, C++, C#, ASP.NET, SQL y Git**.  
+🔹 Trabajando con **C, C++, C#, ASP.NET, SQL, Angular y Git**.  
 🔹 Desarrollo de **aplicaciones web con integración de bases de datos**.  
 🔹 Conocimientos en **HTML, CSS y metodologías de código limpio**.  
 
