@@ -11,7 +11,7 @@ Me interesa la programación y encontrar formas de optimizar procesos para hacer
 🔹 Conocimientos en **HTML, CSS y metodologías de código limpio**.  
 
 
-* 🌍  Buenos Aires
+* 🌍  Buenos Aires, Argentina ==> Porto, Portugal
 * 🚀  Actualmente desarrollando GuardeSoftware, para [Guarde Lo Que Quiera](https://www.guardeloquequiera.net/)
 
 
