@@ -1,18 +1,18 @@
 Hola!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Soy Mateo
 =============================================================================================================================
 
-Estudiante de programacion & Desarrollador Full Stack 
+Programming student & Full Stack Developer 
 ---------------------------------------------------------------
 
-Me interesa la programación y encontrar formas de optimizar procesos para hacer las cosas más eficientes. Siempre estoy buscando aprender algo nuevo y mejorar en cada proyecto que emprendo.  
+I am interested in programming and finding ways to optimize processes to make things more efficient. I am always looking to learn something new and improve with every project I undertake.  
 
-🔹 Trabajando con **C, C++, C#, ASP.NET, SQL, Angular y Git**.  
-🔹 Desarrollo de **aplicaciones web con integración de bases de datos**.  
-🔹 Conocimientos en **HTML, CSS y metodologías de código limpio**.  
+🔹 Working with **C, C++, C#, ASP.NET, SQL, Angular and Git**.  
+🔹 Development of **web applications with database integration**.    
+🔹 Knowledge of HTML, CSS, and clean code methodologies.  
 
 
-* 🌍  Buenos Aires, Argentina ==> Porto, Portugal
-* 🚀  Actualmente desarrollando GuardeSoftware, para [Guarde Lo Que Quiera](https://www.guardeloquequiera.net/)
+* 🌍  Buenos Aires, Argentina => Porto, Portugal
+* 🚀  Currently developing GuardeSoftware, for [Guarde Lo Que Quiera](https://www.guardeloquequiera.net/)
 
 
 
